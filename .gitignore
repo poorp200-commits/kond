@@ -1,0 +1,9 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed-os
+mbed-mqtt
+mbed-client
+mbed-http-client
